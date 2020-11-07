@@ -1,4 +1,4 @@
-# construction-projects
+# Construction Projects
 List of active construction projects and who's working on what.
 
 ## Active Work Zone
