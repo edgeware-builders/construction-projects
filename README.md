@@ -3,7 +3,9 @@ List of active construction projects and who's working on what.
 
 ## Active Work Zone
 #### Yieldscan Edgeware Integration
-To be filled in.
+Deployed: https://yieldscan-edgeware.vercel.app/
+Frontend: https://github.com/edgeware-builders/yieldscan-frontend
+Backend: https://github.com/edgeware-builders/yieldscan-backend-ts
 @Furqan
 
 #### WASM Documentation
