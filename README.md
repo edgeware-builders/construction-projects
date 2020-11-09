@@ -3,14 +3,14 @@ List of active construction projects and who's working on what.
 
 ## Active Work Zone
 #### Beresheet Faucet
-https://github.com/edgeware-builders/beresheet-faucet-backend
-https://github.com/edgeware-builders/beresheet-faucet-frontend
-Deployed: https://beresheet-faucet.vercel.app/
+- Deployed: https://beresheet-faucet.vercel.app/
+- Backend: https://github.com/edgeware-builders/beresheet-faucet-backend
+- Frontend: https://github.com/edgeware-builders/beresheet-faucet-frontend
 
 #### Yieldscan Edgeware Integration
-Deployed: https://yieldscan-edgeware.vercel.app/
-Frontend: https://github.com/edgeware-builders/yieldscan-frontend
-Backend: https://github.com/edgeware-builders/yieldscan-backend-ts
+- Deployed: https://yieldscan-edgeware.vercel.app/
+- Backend: https://github.com/edgeware-builders/yieldscan-backend-ts
+- Frontend: https://github.com/edgeware-builders/yieldscan-frontend
 @Furqan
 
 #### WASM Documentation
