@@ -28,3 +28,6 @@ A hosted webapp that displays metrics about Edgeware's Contracts pallet.
 #### Community run stable coin
 - MakeDAO or Basis style stablecoin
 - Permissioned oracle price feed (for MVP)
+
+### Offline tx generation
+- Extend https://github.com/paritytech/txwrapper in a fork using Edgeware types
