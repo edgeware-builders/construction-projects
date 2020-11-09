@@ -11,7 +11,6 @@ List of active construction projects and who's working on what.
 - Deployed: https://yieldscan-edgeware.vercel.app/
 - Backend: https://github.com/edgeware-builders/yieldscan-backend-ts
 - Frontend: https://github.com/edgeware-builders/yieldscan-frontend
-@Furqan
 
 #### WASM Documentation
 To be filled in.
