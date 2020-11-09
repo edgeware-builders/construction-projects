@@ -24,6 +24,10 @@ To be filled in.
 To be filled in.
 @Jake, @Drew, @Alex
 
+#### Zero-knowledge Proofs of Membership
+To be filled in.
+@Filip, @Drew
+
 ## Pending Projects
 #### WASM Metrics Leaderboard
 A hosted webapp that displays metrics about Edgeware's Contracts pallet.
