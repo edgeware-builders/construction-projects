@@ -24,3 +24,7 @@ A hosted webapp that displays metrics about Edgeware's Contracts pallet.
 - Service for watching contract deployment events using PolkadotJS API.
 - Record keeping for deployments, usage metrics, # of EDG spent in fees, etc. using a database.
 - `create-react-app` + `vercel` deployment.
+
+#### Community run stable coin
+- MakeDAO or Basis style stablecoin
+- Permissioned oracle price feed (for MVP)
