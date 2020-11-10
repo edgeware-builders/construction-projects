@@ -19,18 +19,18 @@ To be filled in.
 @Matej
 
 #### Ethereum light-client pallet
-Builders: [[Drew](https://github.com/drewstone)], [Jake](https://github.com/jnaviask)]
+Builders: [[Drew](https://github.com/drewstone), [Jake](https://github.com/jnaviask)]
 - Pallet: https://github.com/hicommonwealth/substrate-eth-light-client
 **Current Bugs**
 1. Extrinsic call 
 
 #### Social identity scraper pallet
-Builders: [[Drew](https://github.com/drewstone)], [Jake](https://github.com/jnaviask)]
+Builders: [[Drew](https://github.com/drewstone), [Jake](https://github.com/jnaviask)]
 - Twitter worker: https://github.com/hicommonwealth/twitter-scraper-worker
 - URL worker: https://github.com/hicommonwealth/identity-worker
 
 #### Zero-knowledge Proofs of Membership
-Builders: [[Drew](https://github.com/drewstone)], [Filip](https://github.com/filiplazovic)]
+Builders: [[Drew](https://github.com/drewstone), [Filip](https://github.com/filiplazovic)]
 - Pallets: https://github.com/edgeware-builders/anon
 
 ## Pending Projects
