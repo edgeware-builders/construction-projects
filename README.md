@@ -3,11 +3,13 @@ List of active construction projects and who's working on what.
 
 ## Active Work Zone
 #### Beresheet Faucet
+Builders: [[Furqan](https://github.com/nblogist)]
 - Deployed: https://beresheet-faucet.vercel.app/
 - Backend: https://github.com/edgeware-builders/beresheet-faucet-backend
 - Frontend: https://github.com/edgeware-builders/beresheet-faucet-frontend
 
 #### Yieldscan Edgeware Integration
+Builders: [[Furqan](https://github.com/nblogist)]
 - Deployed: https://yieldscan-edgeware.vercel.app/
 - Backend: https://github.com/edgeware-builders/yieldscan-backend-ts
 - Frontend: https://github.com/edgeware-builders/yieldscan-frontend
@@ -17,16 +19,19 @@ To be filled in.
 @Matej
 
 #### Ethereum light-client pallet
-To be filled in.
-@Drew
+Builders: [[Drew](https://github.com/drewstone)], [Jake](https://github.com/jnaviask)]
+- Pallet: https://github.com/hicommonwealth/substrate-eth-light-client
+**Current Bugs**
+1. Extrinsic call 
 
 #### Social identity scraper pallet
-To be filled in.
-@Jake, @Drew, @Alex
+Builders: [[Drew](https://github.com/drewstone)], [Jake](https://github.com/jnaviask)]
+- Twitter worker: https://github.com/hicommonwealth/twitter-scraper-worker
+- URL worker: https://github.com/hicommonwealth/identity-worker
 
 #### Zero-knowledge Proofs of Membership
-To be filled in.
-@Filip, @Drew
+Builders: [[Drew](https://github.com/drewstone)], [Filip](https://github.com/filiplazovic)]
+- Pallets: https://github.com/edgeware-builders/anon
 
 ## Pending Projects
 #### WASM Metrics Leaderboard
