@@ -2,18 +2,6 @@
 List of active construction projects and who's working on what.
 
 # Active Work Zone
-### Beresheet Faucet
-Builders: [[Furqan](https://github.com/nblogist)]
-- Deployed: https://beresheet-faucet.vercel.app/
-- Backend: https://github.com/edgeware-builders/beresheet-faucet-backend
-- Frontend: https://github.com/edgeware-builders/beresheet-faucet-frontend
-
-### Yieldscan Edgeware Integration
-Builders: [[Furqan](https://github.com/nblogist)]
-- Deployed: https://yieldscan-edgeware.vercel.app/
-- Backend: https://github.com/edgeware-builders/yieldscan-backend-ts
-- Frontend: https://github.com/edgeware-builders/yieldscan-frontend
-
 ### WASM Documentation
 To be filled in.
 @Matej
@@ -44,3 +32,16 @@ A hosted webapp that displays metrics about Edgeware's Contracts pallet.
 
 ### Offline tx generation
 - Extend https://github.com/paritytech/txwrapper in a fork using Edgeware types
+
+# Finished Projects
+### Beresheet Faucet
+Builders: [[Furqan](https://github.com/nblogist)]
+- Deployed: https://beresheet-faucet.vercel.app/
+- Backend: https://github.com/edgeware-builders/beresheet-faucet-backend
+- Frontend: https://github.com/edgeware-builders/beresheet-faucet-frontend
+
+### Yieldscan Edgeware Integration
+Builders: [[Furqan](https://github.com/nblogist)]
+- Deployed: https://yieldscan-edgeware.vercel.app/
+- Backend: https://github.com/edgeware-builders/yieldscan-backend-ts
+- Frontend: https://github.com/edgeware-builders/yieldscan-frontend
