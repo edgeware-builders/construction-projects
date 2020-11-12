@@ -1,47 +1,21 @@
 # Construction Projects
-List of active construction projects and who's working on what.
+This repo contains projects for the Edgeware Builders Guild. Take a look around, but keep your hard hat on! This is an active construction site.
 
-# Active Work Zone
-### WASM Documentation
-To be filled in.
-@Matej
+# Contribution Guidelines
+If you are new to the community and want to work on projects, please have a look at the *potential* projects.
 
-### Ethereum light-client pallet
-Builders: [[Drew](https://github.com/drewstone), [Jake](https://github.com/jnaviask)]
-- Pallet: https://github.com/hicommonwealth/substrate-eth-light-client
+# Active
+- [Ethereum Light Client as a Substrate offchain-worker](active/eth-light-client.md)
+- [Twitter tweet scraper as a Substrate offchain-worker](active/twitter-identity-scraper.md)
+- [Zero-knowledge primitives in a Substrate pallet](active/zero-knowledge-primitives.md)
+- [URL scraper as a Substrate offchain-worker](active/identity-url-scraper.md)
+- [WASM smart contract documentation](active/wasm-documentation.md)
+- [Yieldscan Edgeware integration](active/yieldscan-integration.md)
 
-### Social identity scraper pallet
-Builders: [[Drew](https://github.com/drewstone), [Jake](https://github.com/jnaviask)]
-- Twitter worker: https://github.com/hicommonwealth/twitter-scraper-worker
-- URL worker: https://github.com/hicommonwealth/identity-worker
+# Potential
+- [Construction Site](potential/construction-site.md)
+- [Community stablecoin](potential/community-stablecoin.md)
+- [Contract metrics leaderboard](potential/contracts-metrics-leaderboard.md)
 
-### Zero-knowledge Proofs of Membership
-Builders: [[Drew](https://github.com/drewstone), [Filip](https://github.com/filiplazovic)]
-- Pallets: https://github.com/edgeware-builders/anon
-
-# Pending Projects
-### WASM Metrics Leaderboard
-A hosted webapp that displays metrics about Edgeware's Contracts pallet.
-- Service for watching contract deployment events using PolkadotJS API.
-- Record keeping for deployments, usage metrics, # of EDG spent in fees, etc. using a database.
-- `create-react-app` + `vercel` deployment.
-
-### Community run stable coin
-- MakeDAO or Basis style stablecoin
-- Permissioned oracle price feed (for MVP)
-
-### Offline tx generation
-- Extend https://github.com/paritytech/txwrapper in a fork using Edgeware types
-
-# Finished Projects
-### Beresheet Faucet
-Builders: [[Furqan](https://github.com/nblogist)]
-- Deployed: https://beresheet-faucet.vercel.app/
-- Backend: https://github.com/edgeware-builders/beresheet-faucet-backend
-- Frontend: https://github.com/edgeware-builders/beresheet-faucet-frontend
-
-### Yieldscan Edgeware Integration
-Builders: [[Furqan](https://github.com/nblogist)]
-- Deployed: https://yieldscan-edgeware.vercel.app/
-- Backend: https://github.com/edgeware-builders/yieldscan-backend-ts
-- Frontend: https://github.com/edgeware-builders/yieldscan-frontend
+# Completed
+- [Beresheet Faucet](completed/testnet-faucet.md)
