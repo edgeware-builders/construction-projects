@@ -1,4 +1,6 @@
 # Yieldscan Edgeware integration
+**[Commonwealth thread](https://commonwealth.im/edgeware/proposal/discussion/803-edgeware-integrated-with-yieldscan-)**
+
 ### Builders
 [Furqan](https://github.com/nblogist)
 
