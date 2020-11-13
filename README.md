@@ -16,6 +16,10 @@ If you are new to the community and want to work on projects, please have a look
 - [Construction Site](potential/construction-site.md)
 - [Community stablecoin](potential/community-stablecoin.md)
 - [Contract metrics leaderboard](potential/contracts-metrics-leaderboard.md)
+- Ledger wallet integration
+- NEAR bridge
+- Ethereum basic wallet mobile app
+- Ren Protocol integration
 
 # Completed
 - [Beresheet Faucet](completed/testnet-faucet.md)
