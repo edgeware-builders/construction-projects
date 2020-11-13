@@ -20,6 +20,7 @@ If you are new to the community and want to work on projects, please have a look
 - NEAR bridge
 - Ethereum basic wallet mobile app
 - Ren Protocol integration
+- Magic integration
 
 # Completed
 - [Beresheet Faucet](completed/testnet-faucet.md)
