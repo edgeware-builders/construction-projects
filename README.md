@@ -8,7 +8,7 @@ This repo contains active projects and specifications for work that helps Edgewa
 
 This is a work in progress. Feedback is welcome!
 
-- [:bookmark_tabs: Funding Guidelines](#bookmark_tabs-guidelines)
+- [:bookmark_tabs: Funding Guidelines](#bookmark_tabs-funding-guidelines)
   - [Licensing](#licensing)
   - [Documentation](#documentation)
   - [Who we are interested in funding](#who-we-are-interested-in-funding)
