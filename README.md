@@ -44,13 +44,7 @@ If you are considering applying for a grant/bounty, please follow the process be
 1. **Application**
 
     We recommend checking out the [bounty template](.github/bounty.md) & [technical grant template](.github/technical-grant.md). It gives an indication of what a simple bounty or good roadmap should look like, plus it outlines the criteria of what we look for in an application.
-       
-    1. Fill out the Google form for your grant application by clicking the following link: [:arrow_right: Apply here](https://docs.google.com/forms/d/e/1FAIpQLSfMfjiRmDQDRk-4OhNASM6BAKii7rz_B1jWtbCPkUh6N7M2ww/viewform)
-    
-        Partially public applications that limit financial information (e.g. funding amount requested) to the Google form are preferred. However, teams are free to make fully public applications as well as fully private applications. 
-        
-        Teams that chose to make a fully private application are done once this form is complete. Teams that have chosen to make a fully or partially public application should proceed to the next step.
-       
+
     1. Fully or partially public applications should be made via a issues on this repo by following the steps below.
        1. Create a new issue for a bounty or technical grant.
        1. Label the issue as "project_name" with the bounty or grant labels as well as necessary reviewer labels.
