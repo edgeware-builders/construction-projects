@@ -62,7 +62,7 @@ If you are considering applying for a grant/bounty, please follow the process be
    * Once progress has started, the Builders Guild will want to have follow up conversations to see how the project is progressing.
    * For all projects, it is expected to follow the Working Criteria outlined in each project.
 
-Who we are interested in funding
+### Who we are interested in funding
 * Individuals
   * Developers, anyone in the community
 * Companies/Teams
