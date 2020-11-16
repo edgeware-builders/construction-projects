@@ -4,7 +4,7 @@ about: Use this template to describe a project, the acceptance criteria and a bo
   for it
 title: ''
 labels: 
-assignees: [drewstone](https://github.com/drewstone)
+builders: drewstone
 
 ---
 
