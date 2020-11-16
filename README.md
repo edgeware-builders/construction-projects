@@ -39,7 +39,7 @@ To ensure ease-of-use we require all projects to create documentation that expla
 If you are considering applying for a grant/bounty, please follow the process below.
   
 1. **Determine the scope of your project**
-   * Ensure the scope of your project falls within the [:bookmark_tabs: Funding Guidelines](#bookmark_tabs-guidelines)
+   * Ensure the scope of your project falls within the [:bookmark_tabs: Funding Guidelines](#bookmark_tabs-funding-guidelines)
    
 1. **Application**
 
