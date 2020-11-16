@@ -29,13 +29,13 @@ Teams can apply for grants more than once, but they need to complete the previou
 
 We are primarily interested in projects that can be completed in 3 months or less.
 
-## Licensing
+### Licensing
 In order to successfully receive grant funding for your application it is necessary for the project to have open source code. We prefer Apache 2.0 but the GNU GPL v3 license is also acceptable.
 
-## Documentation
+### Documentation
 To ensure ease-of-use we require all projects to create documentation that explains how their project works. At a minimum, written documentation is required for funding. Tutorials or videos are also helpful for new users to understand how to use the product.
 
-# :pencil: Process
+## :pencil: Process
 If you are considering applying for a grant/bounty, please follow the process below.
   
 1. **Determine the scope of your project**
