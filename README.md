@@ -1,5 +1,5 @@
 # Construction Projects & Bounties
-This repo contains projects and bounties for the Edgeware Builders Guild. Take a look around, but keep your hard hat on! This is an active construction site. If you are new to the community and want to work on projects, please have a look at the issues board.
+This repo contains projects and bounties for the Edgeware Builders Guild, an organisation of builders on Edgeware. This repo has projects and bounties that we will work on. You do not need to be in the Builders Guild to apply and work on these projects. Take a look around, but keep your hard hat on! This is an active construction site. If you are new to the community and want to work on projects, please have a look at the issues board.
 
 This repo contains active projects and specifications for work that helps Edgeware and the Edgeware ecosystem. You can find ideas for bounty projects and learn more about what we're up to in the **active** section of the repo. You can use the labels to search for projects that fit your taste and skill level in the issues board.
 
