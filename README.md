@@ -46,8 +46,8 @@ If you are considering applying for a grant/bounty, please follow the process be
     We recommend checking out the [bounty template](.github/ISSUE_TEMPLATE/bounty.md) & [technical grant template](.github/ISSUE_TEMPLATE/technical-grant.md). It gives an indication of what a simple bounty or good roadmap should look like, plus it outlines the criteria of what we look for in an application.
 
     1. Fully or partially public applications should be made via a issues on this repo by following the steps below.
-       1. Create a new issue for a bounty or technical grant.
-       1. Label the issue as "project_name" with the bounty or grant labels as well as necessary reviewer labels.
+       1. Copy the template for a bounty or technical grant into a new issue.
+       1. Title the issue as "project_name" with the bounty or grant labels as well as necessary reviewer labels.
        1. Fill out the template with the details of your project.
        
 1. **Review**
